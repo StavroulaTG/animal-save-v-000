@@ -19,6 +19,6 @@ html {
 }
 
 /* Write your solution here */
-@media only screen (min-width:642px) and(max-width:) {
+@media only screen and (min-width:642px) and (max-width:) {
   transform: rotate(0.5turn);
 }
